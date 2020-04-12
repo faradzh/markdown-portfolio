@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of anime developer](https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/goku-learning-react-2.png)
