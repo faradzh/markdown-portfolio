@@ -1,1 +1,1 @@
-![Freecode profile](https://www.freecodecamp.org)
+[Freecode profile](https://www.freecodecamp.org)
